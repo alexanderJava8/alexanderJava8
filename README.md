@@ -1,7 +1,4 @@
-PREVIEW
-MARKDOWN
-COPY
-Hi 👋 My name is Ricardo Alexander
+Hola 👋 mi nombre es Ricardo Alexander
 ==================================
 
 Desarrollador Java
@@ -9,8 +6,8 @@ Desarrollador Java
 
 Hola, soy Ricardo Alexander. Soy desarrollador backend Java. Aprendí programación en la carrera de Ingeniería Mecánica, específicamente en las materias de programación donde utilizábamos el lenguaje de programación C++ para entender los fundamentos. Además, cursé un diplomado en testing de software de la Universidad de Oriente. También he completado cursos en línea de Spring Boot, lo que me ha proporcionado experiencia en el desarrollo de aplicaciones Spring Boot, MySQL y testing utilizando Mockito para mocks y JUnit.
 
-* 🖥️  See my portfolio at [Web Personal](http://alexanderjava8.github.io/my-web/index.html)
-* ✉️  You can contact me at [alexjava33@yahoo.com](mailto:alexjava33@yahoo.com)
+* 🖥️  ver mi portafolio en [Web Personal](http://alexanderjava8.github.io/my-web/index.html)
+* ✉️  tu puedes contactarme en [alexjava33@yahoo.com](mailto:alexjava33@yahoo.com)
 
 ### Skills
 
