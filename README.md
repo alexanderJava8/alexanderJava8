@@ -6,7 +6,7 @@ Desarrollador Java
 
 Hola, soy Ricardo Alexander. Soy desarrollador backend Java. Aprendí programación en la carrera de Ingeniería Mecánica, específicamente en las materias de programación donde utilizábamos el lenguaje de programación C++ para entender los fundamentos. Además, cursé un diplomado en testing de software de la Universidad de Oriente. También he completado cursos en línea de Spring Boot, lo que me ha proporcionado experiencia en el desarrollo de aplicaciones Spring Boot, MySQL y testing utilizando Mockito para mocks y JUnit.
 
-* 🖥️  ver mi portafolio en [Web Personal](http://alexanderjava8.github.io/my-web/index.html)
+* 🖥️  ver mi portafolio en [Pagina Web](http://alexanderjava8.github.io/my-web/index.html)
 * ✉️  tu puedes contactarme en [alexjava33@yahoo.com](mailto:alexjava33@yahoo.com)
 
 ### Skills
